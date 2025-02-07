@@ -1,3 +1,4 @@
 DevOps is crucial in SDLC as it automates development, testing, and deployment.
 Automation in SDLC reduces errors and speeds up the development process.
 CI/CD allows continuous testing and deployment to reduce software release time.
+DevOps enhances SDLC by integrating development and operations for faster delivery.
