@@ -1,1 +1,1 @@
-DevOps includes tools like Docker and Kubernetes.
+COMP 3104 DevOps teaches automation, CI/CD, and deployment practices.
