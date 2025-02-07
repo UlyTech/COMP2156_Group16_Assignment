@@ -1,4 +1,1 @@
 COMP 3104 DevOps teaches CI/CD, automation, and modern software deployment practices.
-COMP 3104 covers version control, Docker, Kubernetes, and cloud computing.
-DevOps fosters a culture of collaboration between development and operations teams.
-COMP 3104 emphasizes CI/CD pipelines for continuous software delivery.
