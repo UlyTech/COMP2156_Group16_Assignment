@@ -1,1 +1,2 @@
 DevOps is essential in SDLC as it enhances collaboration, automation, and efficiency in software development.
+DevOps reduces manual work, increases reliability, and automates software releases.
