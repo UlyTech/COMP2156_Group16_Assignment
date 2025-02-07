@@ -1,2 +1,3 @@
 COMP 3104 DevOps teaches automation, CI/CD, and deployment practices.
 DevOps commonly uses tools like Docker, Kubernetes, and Jenkins.
+Key DevOps principles include collaboration, automation, and monitoring.
