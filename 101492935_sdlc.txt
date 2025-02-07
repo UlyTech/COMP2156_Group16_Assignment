@@ -1,3 +1,4 @@
 DevOps is essential in the software development lifecycle (SDLC) as it enhances collaboration, automation, and efficiency.
 DevOps helps bridge the gap between development and operations teams.
 DevOps tools like Docker, Kubernetes, and Jenkins streamline SDLC.
+\nDevOps fosters continuous integration and continuous deployment (CI/CD).
