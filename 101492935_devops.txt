@@ -1,0 +1,1 @@
+COMP 3104 DevOps is a course that covers CI/CD, automation, containerization, and modern software development practices.
